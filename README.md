@@ -15,8 +15,6 @@
 ---
 ### :man_technologist: About Me :
 
-- :telescope: I am working as a Data Analyst and aspiring to work on Machine Learning and Deep Learning.
-
 - :four_leaf_clover: Welcome to my Python project on GitHub! This repository is the culmination of my hard work and passion for Python programming. Thank you for your interest in my Python project. I hope you find it informative and engaging.   Feel free to reach out to me with any questions or suggestions. Happy coding!
 
 - :zap: In my free time, I solve problems on Kaggles and read tech articles such as data analysis techniques, artificial intelligence, machine learning, and deep learning.
